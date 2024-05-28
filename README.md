@@ -12,7 +12,7 @@ A minimal habit tracker is a simple, intuitive application focused on helping us
 - flutter_slidable: [link](https://pub.dev/packages/flutter_slidable)
 - flutter_heatmap_calendar: [link](https://pub.dev/packages/flutter_heatmap_calendar)
 
-### Screenshots :
+## Screenshots :
 
 #### Light Mode :
 <div align="center">
