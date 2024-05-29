@@ -3,7 +3,7 @@
 ## Introduction :
 A minimal habit tracker is a simple, intuitive application focused on helping users track their daily habits with ease. Unlike more complex habit tracking tools that come with a myriad of features, a minimal habit tracker emphasizes simplicity and usability. It provides the essential functions needed to monitor and build habits without overwhelming the user with unnecessary options.
 
-**Packages we are using:**
+## Packages we are using:
 
 - isar: [link](https://pub.dev/packages/isar)
 - provider: [link](https://pub.dev/packages/provider)
@@ -11,6 +11,14 @@ A minimal habit tracker is a simple, intuitive application focused on helping us
 - path_provider: [link](https://pub.dev/packages/path_provider)
 - flutter_slidable: [link](https://pub.dev/packages/flutter_slidable)
 - flutter_heatmap_calendar: [link](https://pub.dev/packages/flutter_heatmap_calendar)
+
+## Features :
+
+- Add Habbits
+- Save and Update Habbits
+- Delete Habbits
+- Show Calendar
+- Change Themes
 
 ## Screenshots :
 
